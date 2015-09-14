@@ -36,7 +36,7 @@
 
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-12"><h2 id="logo">Course Repository</h2></div>
+			<div class="col-lg-12"><h2 id="logo">Course Repository-Software Engineering</h2></div>
 		</div>
 
 		<nav>
@@ -44,7 +44,7 @@
 
 				<a href="#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
 				<ul class="right hide-on-med-and-down">
-					<li><a href="server/coursev.php">Course Outline</a></li>
+					<li><a href="server/coursev.php">About US</a></li>
 					<li><a href="server/facultyView.php">Faculty</a></li>
 					<li><a href="server/dept_form.php">Department</a></li>
 					<li><a href="" onclick="logout()">Logout</a></li>
@@ -57,7 +57,7 @@
 				</ul>
 			</div>
 		</nav>
-
+			<div>this is the status message i added test1</div>
 
 		<div class="row" style="padding:5%; ">
 
