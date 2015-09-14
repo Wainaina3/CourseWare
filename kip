@@ -1,0 +1,13 @@
+[1mdiff --git a/index.php b/index.php[m
+[1mindex f299317..2676cd1 100755[m
+[1m--- a/index.php[m
+[1m+++ b/index.php[m
+[36m@@ -36,7 +36,7 @@[m
+ [m
+ 	<div class="container">[m
+ 		<div class="row">[m
+[31m-			<div class="col-lg-12"><h2 id="logo">Course Repository</h2></div>[m
+[32m+[m			[32m<div class="col-lg-12"><h2 id="logo">Course Repository-Software Engineering</h2></div>[m[41m[m
+ 		</div>[m
+ [m
+ 		<nav>[m
