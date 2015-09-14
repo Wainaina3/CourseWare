@@ -57,7 +57,9 @@
 				</ul>
 			</div>
 		</nav>
-			<div>this is the status message i added</div>
+
+			<div>this is the status message i added test1</div>
+
 
 		<div class="row" style="padding:5%; ">
 
